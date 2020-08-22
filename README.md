@@ -1,0 +1,3 @@
+# exercise_one
+prueba funcional con tkinter caso_1 
+el resgitro fue fangda....
